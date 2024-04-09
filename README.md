@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Gajjar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **react.js, node.js**
-
+- 🌱 I’m MERN Stack Developer
+  
 - 📝 I regularly write articles on [https://sgpproject343.blogspot.com/](https://sgpproject343.blogspot.com/)
 
 - 💬 Ask me about **react, node, html, css, javascript, c,c++**
