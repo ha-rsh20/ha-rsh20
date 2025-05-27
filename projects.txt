@@ -1,8 +1,8 @@
-Harshkumar Gajjar1
+Harshkumar Gajjar
 
 MERN/.NET/Cloud Developer.
 ---
-Hwll pI'm a System Engineer at Tata Consultancy Services (TCS), with a passion for building robust, scalable, and user-centric digital solutions. With hands-on experience in Full Stack Web Development, I specialize in both the MERN Stack and .NET Full Stack, enabling me to craft seamless end-to-end applications. My skill set also extends to the cloud, with proficiency in AWS and Microsoft Azure, allowing me to design and deploy cloud-native architectures. I thrive on solving complex problems and bridging the gap between cutting-edge technology and real-world business needs.
+I'm a System Engineer at Tata Consultancy Services (TCS), with a passion for building robust, scalable, and user-centric digital solutions. With hands-on experience in Full Stack Web Development, I specialize in both the MERN Stack and .NET Full Stack, enabling me to craft seamless end-to-end applications. My skill set also extends to the cloud, with proficiency in AWS and Microsoft Azure, allowing me to design and deploy cloud-native architectures. I thrive on solving complex problems and bridging the gap between cutting-edge technology and real-world business needs.
 
 Outside of the tech world, I enjoy staying active and engaged through a variety of hobbies. I'm an avid cricket and badminton player, always up for a friendly match to keep the energy flowing. I also enjoy challenging my mind with Sudoku puzzles, which sharpen my problem-solving skills in a fun way. Music is my constant companion — whether I'm working or relaxing, I love listening to songs that inspire and energize me. Whenever I get the chance, I seek to explore new places in nature, finding peace and perspective in its beauty.
 
