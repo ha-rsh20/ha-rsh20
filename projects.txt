@@ -1,0 +1,49 @@
+Harshkumar Gajjar
+
+MERN/.NET/Cloud Developer.
+---
+I'm a System Engineer at Tata Consultancy Services (TCS), with a passion for building robust, scalable, and user-centric digital solutions. With hands-on experience in Full Stack Web Development, I specialize in both the MERN Stack and .NET Full Stack, enabling me to craft seamless end-to-end applications. My skill set also extends to the cloud, with proficiency in AWS and Microsoft Azure, allowing me to design and deploy cloud-native architectures. I thrive on solving complex problems and bridging the gap between cutting-edge technology and real-world business needs.
+
+Outside of the tech world, I enjoy staying active and engaged through a variety of hobbies. I'm an avid cricket and badminton player, always up for a friendly match to keep the energy flowing. I also enjoy challenging my mind with Sudoku puzzles, which sharpen my problem-solving skills in a fun way. Music is my constant companion — whether I'm working or relaxing, I love listening to songs that inspire and energize me. Whenever I get the chance, I seek to explore new places in nature, finding peace and perspective in its beauty.
+
+---
+Live-Chat App
+
+A real-time chat application that allows users to send messages and share files instantly with others. The application features an OTP-based authentication system for secure user access and provides a seamless messaging experience.
+
+Real-time chat using Socket.io/OTP-based user authentication for secure login/File sharing capabilities during chats/Responsive and dynamic frontend built with React and Redux/RESTful API development with Node.js and Express.js/Data persistence using MongoDB
+
+React, Redux, Node.js, Express.js, MongoDB, Socket.io
+
+Designed and developed complete MERN stack architecture/Created scalable REST APIs and integrated them with the frontend/Implemented live messaging logic using Socket.io for instant communication/Ensured responsiveness across devices and browsers
+
+Delivered a full-featured, modern chat platform that showcases the integration of real-time communication and secure authentication in a full stack environment.
+
+---
+Video-Call App
+
+A real-time video calling application designed for efficient and secure communication. Integrated with an OTP-based authentication system that includes a password reset feature, ensuring robust user verification and account recovery.
+
+High-quality video calls powered by ZegoCloud SDK/OTP authentication and secure password reset flow/RESTful API development using Node.js and Express.js/Responsive UI built with React.js and Redux for smooth user experience/Real-time signaling and media transmission using Socket.io/User and session data handled with MongoDB
+
+React, Redux, Node.js, Express.js, MongoDB, Socket.io
+
+Built secure user authentication and password recovery workflows/Developed backend APIs and integrated ZegoCloud SDK for video calling/Used Socket.io for real-time signaling/Designed and implemented responsive and interactive frontend/Handled API integration and real-time updates using Redux
+
+Successfully delivered a secure, scalable, and user-friendly video call platform that merges authentication security with real-time communication.
+---
+Book Management App
+
+A comprehensive Book Management System designed for buyers, sellers, and admins. The application supports role-based access control using JWT authentication, ensuring secure and scalable operations for multiple user types.
+
+Buyers can browse and view available books/Sellers can add, update, and delete their listed books/Admins can add new users, promote users to admins, and view user details/Built secure JWT-based authentication with role-wise authorization/RESTful APIs developed with Node.js and Express.js/Frontend implemented in React.js with Redux for state management/Data stored and managed using MongoDB
+
+React, Redux, Node.js, Express.js, MongoDB, JWT
+
+Designed the role-based access control system (Admin, Seller, Buyer)/Developed secure APIs with user and book management functionality/Implemented JWT authentication to protect routes and enforce roles/Integrated backend APIs into a responsive React frontend using Redux/Ensured proper separation of concerns and scalable architecture
+
+Delivered a role-aware book platform that enables smooth interaction between buyers, sellers, and administrators — while maintaining security and clarity in permissions.
+---
+https://portfolio-profile-count.onrender.com/profile/addCount
+
+http://localhost:4000/profile/addCount
