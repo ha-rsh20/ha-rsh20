@@ -7,15 +7,6 @@ I’m a highly motivated 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 With hands-on experience across both 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 and 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, I had also work with technologies like 𝗥𝗲𝗮𝗰𝘁𝗝𝗦, 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 to design and deploy modern web applications using the 𝗠𝗘𝗥𝗡 stack. Alongside development, I actively explore 𝗰𝗹𝗼𝘂𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 and 𝗗𝗲𝘃𝗢𝗽𝘀 practices to build production-ready, reliable systems.
 
 Currently, contributing to a real-time trading platform where performance, reliability, and low latency are critical. My work focuses on 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗼𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆, and production stability in 𝗟𝗶𝗻𝘂𝘅-𝗯𝗮𝘀𝗲𝗱 environments.
-
-⭐ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
-➡️ 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MERN Stack
-➡️ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: Event-Driven Architecture, MQ Messaging, RESTful APIs, Microservices, Linux-Based Production Systems
-➡️ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 & 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆: Python (pandas), Log Analysis, Latency Optimization, OPS/TPS Metrics, P95/P99 Benchmarking, Grafana Monitoring
-➡️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 & 𝗤𝘂𝗲𝗿𝘆 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Oracle SQL, SQL/PLSQL, MongoDB, SQL Server
-➡️ 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀: Azure, AWS, Docker, Jenkins, Azure DevOps, CI/CD Pipelines
-➡️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: JavaScript, C/C++, Python, SQL
-➡️ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: Git, GitHub
 ---
 Live-Chat App
 
