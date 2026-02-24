@@ -4,9 +4,7 @@ MERN/.NET/Cloud Developer.
 ---
 I’m a highly motivated 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, passionate about building scalable web applications and high-performance backend systems.
 
-With hands-on experience across both 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 and 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, I had also work with technologies like 𝗥𝗲𝗮𝗰𝘁𝗝𝗦, 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 to design and deploy modern web applications using the 𝗠𝗘𝗥𝗡 stack. Alongside development, I actively explore 𝗰𝗹𝗼𝘂𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 and 𝗗𝗲𝘃𝗢𝗽𝘀 practices to build production-ready, reliable systems.
-
-Currently, contributing to a real-time trading platform where performance, reliability, and low latency are critical. My work focuses on 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗼𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆, and production stability in 𝗟𝗶𝗻𝘂𝘅-𝗯𝗮𝘀𝗲𝗱 environments.
+With hands-on experience across both 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 and 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, I had also work with technologies like 𝗥𝗲𝗮𝗰𝘁𝗝𝗦, 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 to design and deploy modern web applications using the 𝗠𝗘𝗥𝗡 stack. Alongside development, I actively explore 𝗰𝗹𝗼𝘂𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 and 𝗗𝗲𝘃𝗢𝗽𝘀 practices to build production-ready, reliable systems.<br/>Currently, contributing to a real-time trading platform where performance, reliability, and low latency are critical. My work focuses on 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗼𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆, and production stability in 𝗟𝗶𝗻𝘂𝘅-𝗯𝗮𝘀𝗲𝗱 environments.
 
 ⭐ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
 ➡️ 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MERN Stack
